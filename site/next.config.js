@@ -4,13 +4,13 @@ const nextConfig = {
   env: {
     name: 'HOP TRENDY',
     description: 'The official store for HOP supported workspaces.',
-    icon: 'taimoorsiddiquiofficial.github.io/kasm-registry/1.0/img/logo.svg',
-    listUrl: 'taimoorsiddiquiofficial.github.io/kasm-registry/1.0',
-    contactUrl: 'taimoorsiddiquiofficial.github.io/kasm-registry/1.0/support.',
+    icon: 'taimoorsiddiquiofficial.github.io/hop-workspace/1.0/img/logo.svg',
+    listUrl: 'taimoorsiddiquiofficial.github.io/hop-workspace/1.0',
+    contactUrl: 'taimoorsiddiquiofficial.github.io/hop-workspace/1.0/support.',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/hop-workspace/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
