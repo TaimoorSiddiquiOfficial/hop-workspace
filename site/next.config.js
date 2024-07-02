@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'HOP TRENDY',
+    description: 'The official store for HOP supported workspaces.',
+    icon: 'taimoorsiddiquiofficial.github.io/kasm-registry/1.0/img/logo.svg',
+    listUrl: 'taimoorsiddiquiofficial.github.io/kasm-registry/1.0',
+    contactUrl: 'taimoorsiddiquiofficial.github.io/kasm-registry/1.0/support.',
   },
   reactStrictMode: true,
   swcMinify: true,
